@@ -1,5 +1,4 @@
 # Theme & Product List App
-
 ## What I Learned
 
 * Used **useState** to manage both theme mode and a list of products.
@@ -9,3 +8,7 @@
 * Passed **state and handler functions as props** to reusable components (Navbar,Section,Table)
 * Rendered **dynamic data** using map() to display product details.
 * Styled the UI with **Bootstrap** for a clean, responsive layout
+
+
+https://github.com/user-attachments/assets/196991f4-0f97-4266-b880-58a8215036dc
+
